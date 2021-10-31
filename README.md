@@ -1,3 +1,0 @@
-# runngpool
-tgt
-J
